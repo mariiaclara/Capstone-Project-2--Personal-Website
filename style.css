@@ -1,0 +1,56 @@
+/*Intro*/
+#intro {
+    background-color: #FFF7F3;
+}
+
+.profile-img{
+    border-radius: 100%;
+}
+
+/*Education*/
+.building{
+    width: 1.2em;
+}
+
+.mortarboard{
+    width: 1.2em;
+}
+
+.book{
+    width: 1.2em;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+}
+
+/*Leadership*/
+  #leadership .row {
+    display: flex;
+    justify-content: space-evenly; /* Center the columns */
+    flex-wrap: wrap; 
+  }
+  
+  #leadership .col {
+    display: flex;
+    align-items: center; /* Center items horizontally */
+  }
+
+  .one-circle{
+    width: 1.5em;
+  }
+
+  .two-circle{
+    width: 1.5em;
+  }
+
+  /*Contact*/
+#contact {
+    background-color: #FAD0C4;
+}
+
+/*Footer*/
+#footer {
+    background-color: #FFF7F3;
+}
